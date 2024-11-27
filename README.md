@@ -1,0 +1,1 @@
+This application is to test and improve my skills on Flask framwork and using REST APIs
