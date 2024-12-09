@@ -44,6 +44,7 @@ flask run
 # Go to http://127.0.0.1:5000/
  ```
 ## Directory Structure
+```plaintext
 blog-web-app/
 ├── static/
 │   ├── css/
@@ -57,6 +58,7 @@ blog-web-app/
 ├── models.py
 ├── requirements.txt
 └── README.md
+```
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, submit a pull request, or open an issue for suggestions and improvements.
 
